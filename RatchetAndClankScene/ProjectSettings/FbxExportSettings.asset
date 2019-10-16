@@ -15,6 +15,7 @@
             "."
         ],
         "fbxSavePaths": [
+            "Exports",
             "."
         ],
         "selectedFbxPath": 0,
